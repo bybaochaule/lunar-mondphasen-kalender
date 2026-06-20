@@ -1,4 +1,3 @@
-README.md
 # Lunar-Mondphasen-Kalender
 
 Ein deutschsprachiger ChatGPT-Skill zum Erstellen, Strukturieren und Pruefen von Mondphasen- und Lunar-Kalendern. Der Skill eignet sich fuer Monats- und Jahresuebersichten, Journaling, Ritualplanung, Gartenkalender, Content-Planung und redaktionelle Mondphasen-Inhalte.
